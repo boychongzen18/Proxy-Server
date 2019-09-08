@@ -2,7 +2,7 @@
 
 # Author : Boychongzen aka Xroot
 
-# Tested  Windows Working
+# Tested  Windows Seven Working
 
 # Tampilan Scanning Proxy Server  Via Windows
 ![be](https://raw.githubusercontent.com/boychongzen18/IP-Scanner/master/cmd.jpg)
