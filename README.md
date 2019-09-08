@@ -1,14 +1,14 @@
-# Scanning Host - IP_Proxy 
+# Scanning Proxy Server 
 
 # Author : Boychongzen aka Xroot
 
 # Tested  Windows Working
 
-# Tampilan Scanning IP_Proxy Via Windows
+# Tampilan Scanning Proxy Server  Via Windows
 ![be](https://raw.githubusercontent.com/boychongzen18/IP-Scanner/master/cmd.jpg)
-# Tampilan Scanning IP_Proxy Opok Telkomyet
+# Tampilan Scanning Proxy Server  Opok Telkomyet
 ![be](https://raw.githubusercontent.com/boychongzen18/IP-Scanner/master/ip.jpg)
-# Tampilan Scanning IP_Proxy Saweran
+# Tampilan Scanning Proxy Server  Saweran
 ![be](https://raw.githubusercontent.com/boychongzen18/IP-Scanner/master/sawer.jpg)
 
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
