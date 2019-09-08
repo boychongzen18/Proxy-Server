@@ -6,9 +6,9 @@
 
 # Tampilan Scanning IP_Proxy Via Windows
 ![be](https://raw.githubusercontent.com/boychongzen18/IP-Scanner/master/cmd.jpg)
-Tampilan Scanning IP_Proxy Opok Telkomyet
+# Tampilan Scanning IP_Proxy Opok Telkomyet
 ![be](https://raw.githubusercontent.com/boychongzen18/IP-Scanner/master/ip.jpg)
-Tampilan Scanning IP_Proxy Saweran
+# Tampilan Scanning IP_Proxy Saweran
 ![be](https://raw.githubusercontent.com/boychongzen18/IP-Scanner/master/sawer.jpg)
 
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
