@@ -5,8 +5,8 @@
 # Tested  Windows Working
 
 # Tampilan Scanning IP_Proxy Via Windows
-![be](https://raw.githubusercontent.com/boychongzen18/scanner-host/master/host.jpg)
-
+![be](https://raw.githubusercontent.com/boychongzen18/IP-Scanner/master/cmd.jpg)
+![be](https://raw.githubusercontent.com/boychongzen18/IP-Scanner/master/ip.jpg)
 
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
