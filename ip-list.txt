@@ -1,0 +1,1818 @@
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    1.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.1
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    2.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.2
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    3.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.3
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    4.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.4
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    5.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.5
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    6.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.6
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    7.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.7
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    8.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.8
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    9.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.9
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    10.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.10
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    11.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.11
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    12.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.12
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    13.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.13
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    14.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.14
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    15.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.15
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    16.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.16
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    17.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.17
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    18.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.18
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    19.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.19
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    20.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.20
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    21.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.21
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    22.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.22
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    23.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.23
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    24.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.24
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    25.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.25
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    26.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.26
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    27.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.27
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    28.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.28
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    29.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.29
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    30.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.30
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    31.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.31
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    32.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.32
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    33.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.33
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    34.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.34
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    35.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.35
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    36.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.36
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    37.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.37
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    38.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.38
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    39.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.39
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    40.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.40
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    41.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.41
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    42.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.42
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    43.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.43
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    44.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.44
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    45.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.45
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    46.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.46
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    47.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.47
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    48.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.48
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    49.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.49
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    50.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.50
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    51.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.51
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    52.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.52
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    53.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.53
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    54.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.54
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    55.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.55
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    56.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.56
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    57.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.57
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    58.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.58
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    59.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.59
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    60.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.60
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    61.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.61
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    62.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.62
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    63.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.63
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    64.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.64
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    65.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.65
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    66.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.66
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    67.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.67
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    68.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.68
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    69.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.69
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    70.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.70
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    71.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.71
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    72.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.72
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    73.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.73
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    74.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.74
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    75.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.75
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    76.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.76
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    77.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.77
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    78.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.78
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    79.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.79
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    80.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.80
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    81.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.81
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    82.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.82
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    83.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.83
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    84.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.84
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    85.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.85
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    86.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.86
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    87.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.87
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    88.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.88
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    89.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.89
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    90.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.90
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    91.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.91
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    92.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.92
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    93.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.93
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    94.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.94
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    95.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.95
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    96.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.96
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    97.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.97
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    98.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.98
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    99.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.99
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    100.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.100
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    101.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.101
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    102.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.102
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    103.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.103
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    104.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.104
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    105.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.105
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    106.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.106
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    107.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.107
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    108.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.108
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    109.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.109
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    110.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.110
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    111.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.111
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    112.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.112
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    113.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.113
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    114.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.114
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    115.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.115
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    116.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.116
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    117.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.117
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    118.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.118
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    119.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.119
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    120.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.120
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    121.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.121
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    122.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.122
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    123.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.123
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    124.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.124
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    125.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.125
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    126.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.126
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    127.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.127
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    128.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.128
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    129.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.129
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    130.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.130
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    131.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.131
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    132.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.132
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    133.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.133
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    134.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.134
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    135.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.135
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    136.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.136
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    137.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.137
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    138.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.138
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    139.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.139
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    140.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.140
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    141.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.141
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    142.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.142
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    143.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.143
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    144.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.144
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    145.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.145
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    146.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.146
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    147.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.147
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    148.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.148
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    149.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.149
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    150.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.150
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    151.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.151
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    152.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.152
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    153.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.153
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    154.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.154
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    155.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.155
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    156.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.156
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    157.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.157
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    158.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.158
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    159.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.159
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    160.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.160
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    161.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.161
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    162.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.162
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    163.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.163
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    164.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.164
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    165.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.165
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    166.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.166
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    167.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.167
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    168.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.168
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    169.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.169
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    170.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.170
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    171.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.171
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    172.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.172
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    173.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.173
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    174.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.174
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    175.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.175
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    176.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.176
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    177.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.177
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    178.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.178
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    179.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.179
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    180.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.180
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    181.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.181
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    182.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.182
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    183.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.183
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    184.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.184
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    185.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.185
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    186.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.186
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    187.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.187
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    188.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.188
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    189.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.189
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    190.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.190
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    191.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.191
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    192.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.192
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    193.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.193
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    194.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.194
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    195.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.195
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    196.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.196
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    197.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.197
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    198.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.198
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    199.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.199
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    200.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.200
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    201.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.201
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    202.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.202
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    203.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.203
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    204.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.204
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    205.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.205
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    206.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.206
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    207.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.207
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    208.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.208
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    209.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.209
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    210.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.210
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    211.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.211
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    212.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.212
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    213.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.213
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    214.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.214
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    215.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.215
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    216.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.216
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    217.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.217
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    218.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.218
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    219.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.219
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    220.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.220
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    221.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.221
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    222.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.222
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    223.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.223
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    224.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.224
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    225.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.225
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    226.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.226
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    227.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.227
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    228.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.228
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    229.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.229
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    230.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.230
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    231.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.231
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    232.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.232
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    233.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.233
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    234.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.234
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    235.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.235
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    236.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.236
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    237.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.237
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    238.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.238
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    239.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.239
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    240.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.240
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    241.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.241
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    242.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.242
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    243.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.243
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    244.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.244
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    245.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.245
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    246.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.246
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    247.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.247
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    248.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.248
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    249.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.249
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    250.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.250
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    251.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.251
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    252.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.252
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    253.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.253
+
+Server:  UnKnown
+Address:  192.168.43.1
+
+Name:    254.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.254
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    1.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.1
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    2.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.2
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    3.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.3
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    4.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.4
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    5.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.5
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    6.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.6
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    7.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.7
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    8.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    9.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.9
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    10.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.10
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    11.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.11
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    12.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.12
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    13.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.13
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    14.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.14
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    15.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.15
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    16.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.16
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    17.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.17
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    18.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.18
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    19.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.19
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    20.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.20
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    21.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.21
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    22.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.22
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    23.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.23
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    24.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.24
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    25.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.25
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    26.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.26
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    27.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.27
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    28.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.28
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    29.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.29
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    30.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.30
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    31.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.31
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    32.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.32
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    33.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.33
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    34.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.34
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    35.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.35
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    36.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.36
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    37.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.37
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    38.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.38
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    39.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.39
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    40.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.40
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    41.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.41
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    42.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.42
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    43.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.43
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    44.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.44
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    45.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.45
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    46.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.46
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    47.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.47
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    48.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.48
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    49.subnet118-98-95.astinet.telkom.net.id
+Address:  118.98.95.49
+
