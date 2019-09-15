@@ -7,10 +7,10 @@ Tested : Windows Seven
 Eksekusi Via Terminal
 
 Opok
-for /L %N in (1,1,100) do @nslookup 118.97.159.%N >>opok.txt
+for /L %N in (1,1,60) do @nslookup 118.97.159.%N >>opok.txt
 
 Saweran
-for /L %N in (1,1,100) do @nslookup 184.29.100.%N >>saweran.txt
+for /L %N in (1,1,50) do @nslookup 184.29.100.%N >>saweran.txt
 
 
 Regards Boychongzen aka Xroot
