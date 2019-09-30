@@ -1,0 +1,560 @@
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    irbs3.sbrcnap2.xl.net.id
+Address:  112.215.101.1
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    irbs3.sbrcnap1.xl.net.id
+Address:  112.215.101.2
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    xe-2-3-2s0.cbtcnap1.xl.net.id
+Address:  112.215.101.9
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    xe-2-3-2s0.cbtcnap2.xl.net.id
+Address:  112.215.101.13
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  8.8.8.8
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  dns.google
+Address:  8.8.8.8
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  8.8.8.8
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  dns.google
+Address:  8.8.8.8
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  8.8.8.8
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  8.8.8.8
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Server:  dns.google
+Address:  8.8.8.8
+

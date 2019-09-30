@@ -1,0 +1,964 @@
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    1.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.1
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    2.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.2
+
+Server:  dns.google
+Address:  8.8.8.8
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    4.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.4
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    5.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.5
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    6.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.6
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    7.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.7
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    8.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.8
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  8.8.8.8
+
+Name:    9.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.9
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    10.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.10
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    11.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.11
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    12.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.12
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    13.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.13
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    14.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.14
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    15.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.15
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    16.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.16
+
+Server:  dns.google
+Address:  8.8.8.8
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    18.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.18
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    19.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.19
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    20.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.20
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  8.8.8.8
+
+Name:    21.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.21
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    22.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.22
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    23.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.23
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    24.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.24
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    25.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.25
+
+Server:  dns.google
+Address:  8.8.8.8
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    27.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.27
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  8.8.8.8
+
+Name:    28.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.28
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    29.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.29
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    30.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.30
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    31.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.31
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    32.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.32
+
+Server:  dns.google
+Address:  8.8.8.8
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  dns.google
+Address:  8.8.8.8
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    35.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.35
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    36.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.36
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    37.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.37
+
+Server:  dns.google
+Address:  8.8.8.8
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    39.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.39
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    40.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.40
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    41.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.41
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    42.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.42
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    43.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.43
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    44.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.44
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    45.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.45
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    46.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.46
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    47.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.47
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    48.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.48
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    49.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.49
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    50.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.50
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    51.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.51
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    52.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.52
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    53.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.53
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    54.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.54
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    55.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.55
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    56.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.56
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    57.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.57
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    58.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.58
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    59.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.59
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  8.8.8.8
+
+Name:    60.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.60
+
+Server:  dns.google
+Address:  8.8.8.8
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    62.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.62
+
+Server:  dns.google
+Address:  8.8.8.8
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    64.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.64
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    65.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.65
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    66.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.66
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    67.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.67
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    68.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.68
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  8.8.8.8
+
+Name:    69.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.69
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    70.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.70
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    71.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.71
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    72.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.72
+
+Server:  dns.google
+Address:  8.8.8.8
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    74.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.74
+
+Server:  dns.google
+Address:  8.8.8.8
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    76.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.76
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    77.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.77
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    78.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.78
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    79.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.79
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    80.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.80
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  8.8.8.8
+
+Name:    81.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.81
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    82.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.82
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  8.8.8.8
+
+Name:    83.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.83
+
+Server:  dns.google
+Address:  8.8.8.8
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    85.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.85
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    86.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.86
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    87.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.87
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    88.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.88
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  8.8.8.8
+
+Name:    89.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.89
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    90.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.90
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    91.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.91
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    92.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.92
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    93.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.93
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    94.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.94
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    95.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.95
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    96.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.96
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    97.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.97
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    98.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.98
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    99.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.99
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    100.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.100
+
+Server:  dns.google
+Address:  8.8.8.8
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    102.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.102
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    103.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.103
+
+Server:  dns.google
+Address:  8.8.8.8
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  dns.google
+Address:  8.8.8.8
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    106.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.106
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    107.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.107
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    108.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.108
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    109.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.109
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    110.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.110
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    111.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.111
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    112.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.112
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    113.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.113
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    114.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.114
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    115.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.115
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    116.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.116
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    117.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.117
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    118.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.118
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    119.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.119
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    120.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.120
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    121.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.121
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    122.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.122
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    123.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.123
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    124.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.124
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    125.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.125
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    126.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.126
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  8.8.8.8
+
+Name:    127.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.127
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    128.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.128
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    129.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.129
+
+Server:  dns.google
+Address:  8.8.8.8
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    131.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.131
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    132.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.132
+
+Server:  dns.google
+Address:  8.8.8.8
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    134.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.134
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    135.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.135
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    136.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.136
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    137.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.137
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    138.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.138
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    139.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.139
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  8.8.8.8
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    141.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.141
+
+Server:  dns.google
+Address:  8.8.8.8
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    143.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.143
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    144.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.144
+
+Server:  dns.google
+Address:  8.8.8.8
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    146.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.146
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    147.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.147
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    148.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.148
+
+Server:  dns.google
+Address:  8.8.8.8
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  8.8.8.8
+
+Name:    150.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.150
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    151.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.151
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    152.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.152
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    153.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.153
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    154.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.154
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    155.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.155
+
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
+Address:  8.8.8.8
+
+Name:    156.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.156
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    157.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.157
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    158.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.158
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    159.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.159
+
+Server:  dns.google
+Address:  8.8.8.8
+
+Name:    160.subnet118-98-93.astinet.telkom.net.id
+Address:  118.98.93.160
+
